@@ -19,6 +19,8 @@ I work on efficient pipelines, clean data workflows, and well-structured ML syst
 - 📈 Building ML portfolio for professional opportunities  
 - 🎯 Goal: Become a strong **AI Engineer** with production-level skills  
 - 🌐 LinkedIn: [Connect with me](https://pk.linkedin.com/in/shoaib-alam-khan-73b71727b)
+- 🌐 ResearchGate: [Read Research](https://www.researchgate.net/profile/Shoaib-Alam-Khan)
+- 🌐 Kaggle: [See my work](https://www.kaggle.com/shoaibniazi)
 
 ---
 
