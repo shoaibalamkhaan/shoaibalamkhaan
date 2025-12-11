@@ -27,7 +27,9 @@ I work on efficient pipelines, clean data workflows, and well-structured ML syst
 ## 🧠 Technical Skills
 
 ### **Programming**
-- Python  
+- Python
+- Scikit-learn
+- Pytorch
 - SQL  
 
 ### **Machine Learning**
