@@ -1,13 +1,18 @@
 <h1 align="center">👋 Hi, I'm Shoaib Alam Khan</h1>
 <h3 align="center">AI & Machine Learning Engineer | Data Science Practitioner</h3>
 
-<p align="center">
-  <a href="https://pk.linkedin.com/in/shoaib-alam-khan-73b71727b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Python-Expert-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Engineer-orange?style=for-the-badge">
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23006B96.svg?style=for-the-badge&logo=matplotlib&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 
 ---
 
@@ -76,11 +81,11 @@ Recommends movies using Cosine Similarity and metadata-based features.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shoaibalamkhaan&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibalamkhaan&layout=compact&theme=tokyonight" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shoaibalamkhaan&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shoaibalamkhaan&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibalamkhaan&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 
